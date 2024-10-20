@@ -7,8 +7,8 @@ WiFiServer server(PORT);
 
 /*---------------------Credenciales de WiFi-----------------------*/
 
-const char* ssid = "Telecentro-a050";
-const char* password = "YZNHRTNJJGZ5";
+const char* ssid = "CESJT";
+const char* password = "itisjtsmg";
 
 /*---------------------VARIABLES GLOBALES-------------------------*/
 int contconexion = 0;
